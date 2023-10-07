@@ -1,12 +1,12 @@
 <h1 align="center">Ciao 👋, sono AndreaLoviselli</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=andrealoviselli&label=Profile%20views&color=0e75b6&style=flat" alt="andrealoviselli" /> </p>
 <img align="center" alt"dino-no-internet" width="1000" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif">
-<h3 align="center">Sto per terminare il corso come junior full stack developer!😄</h3>
+<h3 align="center">Junior Full Stack Developer 😄</h3>
 
 
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 
-  - 🔭 Ho appena concluso il corso per Full Stack Developer presso -> [The Net Value](https://www.thenetvalue.com/tnv-academy/)
+  - 🔭 Ho appena concluso il corso Junior Full Stack Developer presso -> [The Net Value](https://www.thenetvalue.com/tnv-academy/)
 
   - 🌱 **Linux Enthusiast** attualmente studio per la LPIC-1  
 
