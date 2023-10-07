@@ -6,11 +6,11 @@
 
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 
-  - 🔭 Adesso sto studiando presso [The Net Value](https://www.thenetvalue.com/tnv-academy/)
+  - 🔭 Ho appena concluso il corso per Full Stack Developer presso -> [The Net Value](https://www.thenetvalue.com/tnv-academy/)
 
-  - 🌱 Nel tempo libero amo approfondire **Linux**
+  - 🌱 **Linux Enthusiast** attualmente studio per la LPIC-1  
 
-  - ✏️ L'informatica è un lungo viaggio, ma imparo in fretta!
+  - ✏️ [Linkedin](https://www.linkedin.com/in/andrealoviselli/)
 
   - 📫 Come raggiungermi -> **andrealoviselli19@gmail.com**
     
