@@ -10,9 +10,9 @@
 
   - 🌱 **Linux Enthusiast** attualmente studio per la LPIC-1  
 
-  - ✏️ [Linkedin](https://www.linkedin.com/in/andrealoviselli/)
+  - ✏️ [Linkedin Profile](https://www.linkedin.com/in/andrealoviselli/)
 
-  - 📫 Come raggiungermi -> **andrealoviselli19@gmail.com**
+  - 📫 Scrivimi 😃 -> **andrealoviselli19@gmail.com**
     
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 
