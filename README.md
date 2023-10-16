@@ -1,5 +1,5 @@
 <h1 align="center">Ciao 👋, sono AndreaLoviselli</h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=andrealoviselli&label=Profile%20views&color=0e75b6&style=flat" alt="andrealoviselli" /> </p>
+<!--<p align="center"> <img src="https://komarev.com/ghpvc/?username=andrealoviselli&label=Profile%20views&color=0e75b6&style=flat" alt="andrealoviselli" /> </p> -->
 <img align="center" alt"dino-no-internet" width="1000" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif">
 <h3 align="center">Junior Full Stack Developer 😄</h3>
 
