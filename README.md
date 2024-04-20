@@ -3,12 +3,9 @@
 <img align="center" alt"dino-no-internet" width="1000" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif">
 <h3 align="center">Junior Full Stack Developer 😄</h3>
 
-
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 
   - 🔭 Ho appena concluso il corso Junior Full Stack Developer presso -> [The Net Value](https://www.thenetvalue.com/tnv-academy/)
-
-  - 🌱 **Linux Enthusiast** attualmente studio per la LPIC-1  
 
   - ✏️ [Linkedin Profile](https://www.linkedin.com/in/andrealoviselli/)
 
