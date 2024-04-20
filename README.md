@@ -8,8 +8,6 @@
   - 🔭 Ho appena concluso il corso Junior Full Stack Developer presso -> [The Net Value](https://www.thenetvalue.com/tnv-academy/)
 
   - ✏️ [Linkedin Profile](https://www.linkedin.com/in/andrealoviselli/)
-
-  - 📫 Scrivimi 😃 -> **andrealoviselli19@gmail.com**
     
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 
